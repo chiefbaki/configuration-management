@@ -1,0 +1,11 @@
+C:\Users\ik509\PycharmProjects\prak5\main>git init
+Initialized empty Git repository in C:/Users/ik509/PycharmProjects/prak5/main/.git/
+
+C:\Users\ik509\PycharmProjects\prak5\main>git config user.name coder1
+
+C:\Users\ik509\PycharmProjects\prak5\main>git config user.email ik509331@gmail.com
+
+C:\Users\ik509\PycharmProjects\prak5\main>echo print("Hello World") > prog.py
+
+C:\Users\ik509\PycharmProjects\prak5\main>python prog.py
+Hello World
